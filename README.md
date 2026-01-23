@@ -26,9 +26,9 @@
 ---
 
 ## 📂 Featured Projects
-🔹 **Student Package Prediction** 
 
-📌 **Project Description**
+### 🔹 Student Package Prediction (ML + Tkinter App)
+**📌 Project Description**
 - Built an ML model to predict student salary packages using CGPA.
 - Performed EDA, preprocessing, and regression model training.
 - Developed a Tkinter GUI for real-time predictions with input validation.
@@ -36,9 +36,10 @@
 🛠 Tools
 Python | Pandas | NumPy | Matplotlib | Seaborn | Tkinter | Google Colab
 
-🔹 **Customer Churn Prediction**  
+---
 
-📌**Project Description**
+### 🔹 Customer Churn Prediction
+**📌 Project Description**
 - Conducted EDA to analyze customer churn behavior.
 - Handled missing values, outliers, and categorical variables.
 - Applied feature scaling and encoding techniques.
@@ -47,9 +48,10 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Tkinter | Google Colab
 🛠 Tools
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
-🔹 **Fraud Transaction Prediction**
+--- 
 
-📌 **Project Description**
+### 🔹 Fraud Transaction Prediction
+**📌 Project Description**
 - Built an ML-based fraud detection system for financial transactions.
 - Performed EDA, preprocessing, and imbalance handling.
 - Trained and evaluated classification models using standard performance metrics.
@@ -57,9 +59,10 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 🛠 Tools
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
-🔹 **E-Commerce Sales Dashboard**  
+---
 
-📌 **Project Description**
+### 🔹 E-Commerce Sales Dashboard (Power BI)
+**📌 Project Description**
 - Analyzed 9,995+ transaction records to identify sales trends.
 - Cleaned and transformed data for accurate reporting.
 - Built interactive dashboards using slicers and filters.
@@ -67,18 +70,20 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 🛠 Tools
 Power BI | DAX | Excel | Data Analysis
 
-🔹 **Handwritten Digit Recognition (Deep Learning)**
+---
 
-📌 **Project Description**
+### 🔹 Handwritten Digit Recognition (Deep Learning)
+**📌 Project Description**
 - Built a deep learning model to classify handwritten digits (0–9).
 - Preprocessed image data and trained a CNN.
 - Evaluated performance using accuracy and loss metrics.
 🛠 Tools
 Python | TensorFlow | Keras | NumPy | Matplotlib
 
-🔹 **Dog vs Cat Image Classification (Deep Learning)**
+---
 
-📌 **Project Description**
+### 🔹 Dog vs Cat Image Classification (Deep Learning)
+**📌 Project Description**
 - Developed a CNN-based image classification model.
 - Applied image preprocessing and regularization techniques.
 - Evaluated model performance using accuracy and loss curves.
