@@ -36,7 +36,7 @@
 Python | Pandas | NumPy | Matplotlib | Seaborn | Tkinter | Google Colab
 
 🔹 **Customer Churn Prediction**  
-📌** Project Description**
+📌**Project Description**
 - Conducted EDA to analyze customer churn behavior.
 - Handled missing values, outliers, and categorical variables.
 - Applied feature scaling and encoding techniques.
@@ -64,7 +64,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 Power BI | DAX | Excel | Data Analysis
 
 🔹 **Handwritten Digit Recognition (Deep Learning)**
-📌** Project Description**
+📌 **Project Description**
 - Built a deep learning model to classify handwritten digits (0–9).
 - Preprocessed image data and trained a CNN.
 - Evaluated performance using accuracy and loss metrics.
@@ -72,7 +72,7 @@ Power BI | DAX | Excel | Data Analysis
 Python | TensorFlow | Keras | NumPy | Matplotlib
 
 🔹 **Dog vs Cat Image Classification (Deep Learning)**
-📌** Project Description** 
+📌 **Project Description**
 - Developed a CNN-based image classification model.
 - Applied image preprocessing and regularization techniques.
 - Evaluated model performance using accuracy and loss curves.
