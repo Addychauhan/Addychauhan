@@ -98,7 +98,7 @@ Python | TensorFlow | Keras | OpenCV | Matplotlib
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: chauhanaadi05@gmail.com
+- 📧 Email: chauhanaadi03@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sikander-894a91244  
 - 🧠 GitHub: https://github.com/Addychauhan  
 
