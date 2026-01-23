@@ -16,15 +16,15 @@
 ---
 
 ## 🛠️ Skills
-- Programming & Libraries: Python, NumPy, Pandas
-- Data Visualization: Matplotlib, Seaborn
-- Machine Learning: Scikit-learn, ML Model Building, Model Evaluation
-- Deep Learning: TensorFlow (Basics)
-- Visualization/Apps: Power BI, Streamlit, Tkinter 
-- Databases: SQL, MySQL, MySQL Workbench
-- Web Scraping: BeautifulSoup, Requests
-- Natural Language Processing (NLP): Text preprocessing, basic NLP techniques
-- Tools & Platforms: Jupyter Notebook, VS Code, Google Colab, GitHub
+-** Programming & Libraries**: Python, NumPy, Pandas
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, ML Model Building, Model Evaluation
+- **Deep Learning: **TensorFlow (Basics)
+- **Visualization/Apps: **Power BI, Streamlit, Tkinter 
+- **Databases:** SQL, MySQL, MySQL Workbench
+- **Web Scraping:** BeautifulSoup, Requests
+- **Natural Language Processing (NLP):** Text preprocessing, basic NLP techniques
+- **Tools & Platforms:** Jupyter Notebook, VS Code, Google Colab, GitHub
 
 ---
 
