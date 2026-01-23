@@ -27,6 +27,7 @@
 
 ## 📂 Featured Projects
 🔹 **Student Package Prediction** 
+
 📌 **Project Description**
 - Built an ML model to predict student salary packages using CGPA.
 - Performed EDA, preprocessing, and regression model training.
@@ -36,6 +37,7 @@
 Python | Pandas | NumPy | Matplotlib | Seaborn | Tkinter | Google Colab
 
 🔹 **Customer Churn Prediction**  
+
 📌**Project Description**
 - Conducted EDA to analyze customer churn behavior.
 - Handled missing values, outliers, and categorical variables.
@@ -46,6 +48,7 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Tkinter | Google Colab
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
 🔹 **Fraud Transaction Prediction**
+
 📌 **Project Description**
 - Built an ML-based fraud detection system for financial transactions.
 - Performed EDA, preprocessing, and imbalance handling.
@@ -55,6 +58,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
 🔹 **E-Commerce Sales Dashboard**  
+
 📌 **Project Description**
 - Analyzed 9,995+ transaction records to identify sales trends.
 - Cleaned and transformed data for accurate reporting.
@@ -64,6 +68,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 Power BI | DAX | Excel | Data Analysis
 
 🔹 **Handwritten Digit Recognition (Deep Learning)**
+
 📌 **Project Description**
 - Built a deep learning model to classify handwritten digits (0–9).
 - Preprocessed image data and trained a CNN.
@@ -72,6 +77,7 @@ Power BI | DAX | Excel | Data Analysis
 Python | TensorFlow | Keras | NumPy | Matplotlib
 
 🔹 **Dog vs Cat Image Classification (Deep Learning)**
+
 📌 **Project Description**
 - Developed a CNN-based image classification model.
 - Applied image preprocessing and regularization techniques.
