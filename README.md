@@ -9,7 +9,7 @@
 ## 🔍 About Me
 - Strong foundation in **Python, Pandas, NumPy**
 - Experience with **Data Cleaning, EDA, Feature Engineering**
-- Worked on **Customer Churn Prediction & E-Commerce Analytics**
+- Worked on **Customer Churn Prediction, Digit Recognition, Image Classification & E-Commerce Analytics**
 - Familiar with **Power BI, Machine Learning & Deep Learning basics**
 - Interested in **Data Science & Analytics roles**
 
